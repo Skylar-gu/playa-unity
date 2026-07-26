@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="Playa.Tests.EditMode.csproj" />
+  <Project Path="Playa.Runtime.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Playa.Tests.PlayMode.csproj" />
+</Solution>

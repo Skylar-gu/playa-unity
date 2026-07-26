@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1189bec025a434c4898a7759be7c93eb, type: 3}
+  m_Name: DancerLibrary
+  m_EditorClassIdentifier: Playa.Runtime::Playa.DancerLibrary
+  characterPrefabs:
+  - {fileID: 919132149155446097, guid: 2e6c8bb62684c4b62957e9bd3a0139d0, type: 3}
+  - {fileID: 919132149155446097, guid: 522b3ffe56ab843989b145a5a166dd71, type: 3}
+  - {fileID: 919132149155446097, guid: 18d552ab2a5cd41e5a9a95d5e35848a2, type: 3}
+  - {fileID: 919132149155446097, guid: bb62e9812428249af8733a68d93c690c, type: 3}
+  - {fileID: 919132149155446097, guid: f0704e658f1de45d58e5cd66d7744825, type: 3}
+  - {fileID: 919132149155446097, guid: c60c88e5651a6443b8aed7eb3f6f9aa5, type: 3}
+  - {fileID: 919132149155446097, guid: 3fa62a373a0b0446d8d38dcd4069ce29, type: 3}
+  - {fileID: 919132149155446097, guid: bc335d29be1a8491880f33129d8a4735, type: 3}
+  danceClips:
+  - clip: {fileID: -203655887218126122, guid: 5c7763148e1ac4878a31167ac19a4d89, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: a91c246e493914256ac4fac1c692d9df, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 4adf444f2b41c4541bd7523b80828529, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 95c708b42b2634eb199a88509566d97f, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 5ddade059f1e2410e90aef0bf841ed82, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 6227f911bd4ad49918cbe3bd677c056d, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 2fb423b87d70643dfa7784206a72596f, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: d6845f14da8b545fcad579788903c412, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 493758adcaed94e63837ef0834004429, type: 3}
+    beatsPerLoop: 4
+  - clip: {fileID: -203655887218126122, guid: 5626b423d1c4c480b952397ffd81ec0f, type: 3}
+    beatsPerLoop: 4
+  palettes:
+  - linen: {r: 0.96, g: 0.94, b: 0.88, a: 1}
+  - linen: {r: 0.92, g: 0.88, b: 0.78, a: 1}
+  - linen: {r: 0.98, g: 0.96, b: 0.92, a: 1}
+  - linen: {r: 0.88, g: 0.82, b: 0.7, a: 1}
+  minScale: 0.92
+  maxScale: 1.08
+  spawnSkirt: 1
+  skirtParentBone: mixamorig:Hips
+  skirtLength: 0.75
+  skirtTopRadius: 0.2
+  skirtBottomRadius: 0.55
+  skirtSegments: 18
+  skirtRings: 4
+  skirtHipOffset: -0.05
