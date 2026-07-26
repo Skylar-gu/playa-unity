@@ -51,7 +51,3 @@ plt.plot(g.index, g["order_local"])
 plt.axhline(0.8, ls="--"); plt.xlabel("t (s)"); plt.ylabel("R_local")
 plt.show()
 ```
-
-## Why the world isn't called Burning Man
-
-Because the Project actively enforces its trademarks and the hackathon rules bar rights-infringing content. The design cost of switching to a generic desert-gathering aesthetic — dust, night, ember lights, angular silhouettes — is zero. See spec §1.
