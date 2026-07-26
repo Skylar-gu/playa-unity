@@ -20,9 +20,7 @@ The world is a playable instrument for studying **collective entrainment** — h
 
 ---
 
-## 2. Why this is a Track 2 project and not a screensaver
-
-The track is scored on whether the social interaction is *purposeful* and has a *credible future data-collection use*. The load-bearing design decision is therefore that the crowd is **coupled**, not random. Independently dancing agents emit i.i.d. noise; there is no structure to recover and nothing a model could learn. Coupled agents emit a signal with a measurable order parameter, a controllable phase transition, and a causal handle (the player) that perturbs it.
+## 2. Discussion of impact
 
 **The robotics gap this addresses.** Essentially every social-navigation dataset in use records *goal-directed pedestrians walking from A to B*: <cite index="8-1">ETH and UCY capture over 1,500 real pedestrian trajectories in outdoor public spaces from an overhead perspective at 2.5 Hz</cite>; <cite index="10-1">THÖR records curated scenarios of humans visiting and inspecting areas or carrying objects, and SCAND provides socially-compliant navigation demonstrations recorded by teleoperating mobile robots</cite>; <cite index="5-1">SCAND specifically comprises 8.7 hours, 138 trajectories and 25 miles of human-teleoperated driving demonstrations</cite>; <cite index="3-1">JRDB was recorded from a social robot in indoor and outdoor settings</cite>.
 
